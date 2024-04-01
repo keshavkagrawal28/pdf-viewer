@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf-viewer/static/css/main.ab22fbd1.css",
+    "main.js": "/pdf-viewer/static/js/main.5d0416b7.js",
+    "static/media/resume1.pdf": "/pdf-viewer/static/media/resume1.2c5d4d301d1c0cd3aeb4.pdf",
+    "static/media/resume2.pdf": "/pdf-viewer/static/media/resume2.656b4537c986b63e750e.pdf",
+    "index.html": "/pdf-viewer/index.html",
+    "main.ab22fbd1.css.map": "/pdf-viewer/static/css/main.ab22fbd1.css.map",
+    "main.5d0416b7.js.map": "/pdf-viewer/static/js/main.5d0416b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab22fbd1.css",
+    "static/js/main.5d0416b7.js"
+  ]
+}
